@@ -1,0 +1,243 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Overlay:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Overlay_jar</output-path>
+    <root id="archive" name="Overlay.jar">
+      <element id="module-output" name="Overlay" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javafx-sdk-21.0.1/lib/javafx-swt.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javafx-sdk-21.0.1/lib/javafx.web.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javafx-sdk-21.0.1/lib/javafx.base.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javafx-sdk-21.0.1/lib/javafx.fxml.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javafx-sdk-21.0.1/lib/javafx.media.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javafx-sdk-21.0.1/lib/javafx.swing.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javafx-sdk-21.0.1/lib/javafx.controls.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javafx-sdk-21.0.1/lib/javafx.graphics.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javacv-platform-1.5.9-bin/ffmpeg.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javacv-platform-1.5.9-bin/javacv.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javacv-platform-1.5.9-bin/opencv.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javacv-platform-1.5.9-bin/javacpp.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javacv-platform-1.5.9-bin/openblas.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javacv-platform-1.5.9-bin/leptonica.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javacv-platform-1.5.9-bin/libdc1394.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javacv-platform-1.5.9-bin/tesseract.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javacv-platform-1.5.9-bin/flycapture.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javacv-platform-1.5.9-bin/videoinput.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javacv-platform-1.5.9-bin/libfreenect.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javacv-platform-1.5.9-bin/libfreenect2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javacv-platform-1.5.9-bin/librealsense.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javacv-platform-1.5.9-bin/artoolkitplus.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javacv-platform-1.5.9-bin/librealsense2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javacv-platform-1.5.9-bin/ffmpeg-platform.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javacv-platform-1.5.9-bin/javacv-platform.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javacv-platform-1.5.9-bin/opencv-platform.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javacv-platform-1.5.9-bin/ffmpeg-linux-x86.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javacv-platform-1.5.9-bin/javacpp-platform.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javacv-platform-1.5.9-bin/opencv-ios-arm64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javacv-platform-1.5.9-bin/opencv-linux-x86.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javacv-platform-1.5.9-bin/javacpp-ios-arm64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javacv-platform-1.5.9-bin/javacpp-linux-x86.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javacv-platform-1.5.9-bin/openblas-platform.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javacv-platform-1.5.9-bin/opencv-ios-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javacv-platform-1.5.9-bin/ffmpeg-android-arm.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javacv-platform-1.5.9-bin/ffmpeg-android-x86.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javacv-platform-1.5.9-bin/ffmpeg-linux-arm64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javacv-platform-1.5.9-bin/ffmpeg-linux-armhf.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javacv-platform-1.5.9-bin/ffmpeg-windows-x86.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javacv-platform-1.5.9-bin/javacpp-ios-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javacv-platform-1.5.9-bin/leptonica-platform.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javacv-platform-1.5.9-bin/libdc1394-platform.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javacv-platform-1.5.9-bin/openblas-ios-arm64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javacv-platform-1.5.9-bin/openblas-linux-x86.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javacv-platform-1.5.9-bin/opencv-android-arm.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javacv-platform-1.5.9-bin/opencv-android-x86.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javacv-platform-1.5.9-bin/opencv-linux-arm64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javacv-platform-1.5.9-bin/opencv-linux-armhf.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javacv-platform-1.5.9-bin/opencv-windows-x86.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javacv-platform-1.5.9-bin/tesseract-platform.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javacv-platform-1.5.9-bin/ffmpeg-linux-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javacv-platform-1.5.9-bin/ffmpeg-macosx-arm64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javacv-platform-1.5.9-bin/flycapture-platform.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javacv-platform-1.5.9-bin/javacpp-android-arm.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javacv-platform-1.5.9-bin/javacpp-android-x86.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javacv-platform-1.5.9-bin/javacpp-linux-arm64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javacv-platform-1.5.9-bin/javacpp-linux-armhf.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javacv-platform-1.5.9-bin/javacpp-windows-x86.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javacv-platform-1.5.9-bin/leptonica-linux-x86.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javacv-platform-1.5.9-bin/libdc1394-linux-x86.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javacv-platform-1.5.9-bin/openblas-ios-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javacv-platform-1.5.9-bin/opencv-linux-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javacv-platform-1.5.9-bin/opencv-macosx-arm64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javacv-platform-1.5.9-bin/tesseract-linux-x86.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javacv-platform-1.5.9-bin/videoinput-platform.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javacv-platform-1.5.9-bin/ffmpeg-android-arm64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javacv-platform-1.5.9-bin/ffmpeg-linux-ppc64le.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javacv-platform-1.5.9-bin/ffmpeg-macosx-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javacv-platform-1.5.9-bin/flycapture-linux-x86.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javacv-platform-1.5.9-bin/javacpp-linux-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javacv-platform-1.5.9-bin/javacpp-macosx-arm64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javacv-platform-1.5.9-bin/libfreenect-platform.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javacv-platform-1.5.9-bin/openblas-android-arm.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javacv-platform-1.5.9-bin/openblas-android-x86.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javacv-platform-1.5.9-bin/openblas-linux-arm64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javacv-platform-1.5.9-bin/openblas-linux-armhf.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javacv-platform-1.5.9-bin/openblas-windows-x86.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javacv-platform-1.5.9-bin/opencv-android-arm64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javacv-platform-1.5.9-bin/opencv-linux-ppc64le.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javacv-platform-1.5.9-bin/opencv-macosx-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javacv-platform-1.5.9-bin/ffmpeg-android-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javacv-platform-1.5.9-bin/ffmpeg-windows-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javacv-platform-1.5.9-bin/javacpp-android-arm64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javacv-platform-1.5.9-bin/javacpp-linux-ppc64le.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javacv-platform-1.5.9-bin/javacpp-macosx-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javacv-platform-1.5.9-bin/leptonica-android-arm.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javacv-platform-1.5.9-bin/leptonica-android-x86.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javacv-platform-1.5.9-bin/leptonica-linux-arm64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javacv-platform-1.5.9-bin/leptonica-linux-armhf.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javacv-platform-1.5.9-bin/leptonica-windows-x86.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javacv-platform-1.5.9-bin/libdc1394-linux-arm64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javacv-platform-1.5.9-bin/libdc1394-linux-armhf.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javacv-platform-1.5.9-bin/libdc1394-windows-x86.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javacv-platform-1.5.9-bin/libfreenect-linux-x86.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javacv-platform-1.5.9-bin/libfreenect2-platform.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javacv-platform-1.5.9-bin/librealsense-platform.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javacv-platform-1.5.9-bin/openblas-linux-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javacv-platform-1.5.9-bin/openblas-macosx-arm64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javacv-platform-1.5.9-bin/opencv-android-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javacv-platform-1.5.9-bin/opencv-windows-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javacv-platform-1.5.9-bin/tesseract-android-arm.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javacv-platform-1.5.9-bin/tesseract-android-x86.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javacv-platform-1.5.9-bin/tesseract-linux-arm64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javacv-platform-1.5.9-bin/tesseract-linux-armhf.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javacv-platform-1.5.9-bin/tesseract-windows-x86.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javacv-platform-1.5.9-bin/artoolkitplus-platform.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javacv-platform-1.5.9-bin/flycapture-linux-arm64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javacv-platform-1.5.9-bin/flycapture-linux-armhf.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javacv-platform-1.5.9-bin/flycapture-windows-x86.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javacv-platform-1.5.9-bin/javacpp-android-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javacv-platform-1.5.9-bin/javacpp-windows-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javacv-platform-1.5.9-bin/leptonica-linux-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javacv-platform-1.5.9-bin/leptonica-macosx-arm64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javacv-platform-1.5.9-bin/libdc1394-linux-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javacv-platform-1.5.9-bin/libfreenect2-linux-x86.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javacv-platform-1.5.9-bin/librealsense-linux-x86.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javacv-platform-1.5.9-bin/librealsense2-platform.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javacv-platform-1.5.9-bin/openblas-android-arm64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javacv-platform-1.5.9-bin/openblas-linux-ppc64le.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javacv-platform-1.5.9-bin/openblas-macosx-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javacv-platform-1.5.9-bin/tesseract-linux-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javacv-platform-1.5.9-bin/tesseract-macosx-arm64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javacv-platform-1.5.9-bin/videoinput-windows-x86.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javacv-platform-1.5.9-bin/artoolkitplus-linux-x86.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javacv-platform-1.5.9-bin/flycapture-linux-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javacv-platform-1.5.9-bin/leptonica-android-arm64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javacv-platform-1.5.9-bin/leptonica-linux-ppc64le.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javacv-platform-1.5.9-bin/leptonica-macosx-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javacv-platform-1.5.9-bin/libdc1394-linux-ppc64le.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javacv-platform-1.5.9-bin/libdc1394-macosx-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javacv-platform-1.5.9-bin/libfreenect-linux-arm64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javacv-platform-1.5.9-bin/libfreenect-linux-armhf.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javacv-platform-1.5.9-bin/libfreenect-windows-x86.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javacv-platform-1.5.9-bin/librealsense2-linux-x86.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javacv-platform-1.5.9-bin/openblas-android-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javacv-platform-1.5.9-bin/openblas-windows-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javacv-platform-1.5.9-bin/tesseract-android-arm64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javacv-platform-1.5.9-bin/tesseract-linux-ppc64le.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javacv-platform-1.5.9-bin/tesseract-macosx-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javacv-platform-1.5.9-bin/leptonica-android-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javacv-platform-1.5.9-bin/leptonica-windows-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javacv-platform-1.5.9-bin/libdc1394-windows-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javacv-platform-1.5.9-bin/libfreenect-linux-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javacv-platform-1.5.9-bin/librealsense-linux-arm64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javacv-platform-1.5.9-bin/librealsense-linux-armhf.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javacv-platform-1.5.9-bin/librealsense-windows-x86.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javacv-platform-1.5.9-bin/tesseract-android-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javacv-platform-1.5.9-bin/tesseract-windows-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javacv-platform-1.5.9-bin/artoolkitplus-android-arm.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javacv-platform-1.5.9-bin/artoolkitplus-android-x86.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javacv-platform-1.5.9-bin/artoolkitplus-linux-arm64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javacv-platform-1.5.9-bin/artoolkitplus-linux-armhf.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javacv-platform-1.5.9-bin/artoolkitplus-windows-x86.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javacv-platform-1.5.9-bin/flycapture-windows-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javacv-platform-1.5.9-bin/libfreenect-linux-ppc64le.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javacv-platform-1.5.9-bin/libfreenect-macosx-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javacv-platform-1.5.9-bin/libfreenect2-linux-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javacv-platform-1.5.9-bin/librealsense-linux-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javacv-platform-1.5.9-bin/librealsense2-linux-arm64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javacv-platform-1.5.9-bin/librealsense2-linux-armhf.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javacv-platform-1.5.9-bin/librealsense2-windows-x86.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javacv-platform-1.5.9-bin/videoinput-windows-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javacv-platform-1.5.9-bin/artoolkitplus-linux-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javacv-platform-1.5.9-bin/libfreenect-windows-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javacv-platform-1.5.9-bin/libfreenect2-macosx-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javacv-platform-1.5.9-bin/librealsense-macosx-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javacv-platform-1.5.9-bin/librealsense2-linux-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javacv-platform-1.5.9-bin/artoolkitplus-android-arm64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javacv-platform-1.5.9-bin/artoolkitplus-linux-ppc64le.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javacv-platform-1.5.9-bin/artoolkitplus-macosx-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javacv-platform-1.5.9-bin/libfreenect2-windows-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javacv-platform-1.5.9-bin/librealsense-windows-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javacv-platform-1.5.9-bin/librealsense2-macosx-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javacv-platform-1.5.9-bin/artoolkitplus-android-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javacv-platform-1.5.9-bin/artoolkitplus-windows-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../705/javacv-platform-1.5.9-bin/librealsense2-windows-x86_64.jar" path-in-jar="/" />
+      <element id="file-copy" path="$PROJECT_DIR$/../705/javafx-sdk-21.0.1/bin/api-ms-win-core-console-l1-1-0.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../705/javafx-sdk-21.0.1/bin/api-ms-win-core-console-l1-2-0.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../705/javafx-sdk-21.0.1/bin/api-ms-win-core-datetime-l1-1-0.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../705/javafx-sdk-21.0.1/bin/api-ms-win-core-debug-l1-1-0.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../705/javafx-sdk-21.0.1/bin/api-ms-win-core-errorhandling-l1-1-0.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../705/javafx-sdk-21.0.1/bin/api-ms-win-core-file-l1-1-0.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../705/javafx-sdk-21.0.1/bin/api-ms-win-core-file-l1-2-0.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../705/javafx-sdk-21.0.1/bin/api-ms-win-core-file-l2-1-0.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../705/javafx-sdk-21.0.1/bin/api-ms-win-core-handle-l1-1-0.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../705/javafx-sdk-21.0.1/bin/api-ms-win-core-heap-l1-1-0.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../705/javafx-sdk-21.0.1/bin/api-ms-win-core-interlocked-l1-1-0.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../705/javafx-sdk-21.0.1/bin/api-ms-win-core-libraryloader-l1-1-0.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../705/javafx-sdk-21.0.1/bin/api-ms-win-core-localization-l1-2-0.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../705/javafx-sdk-21.0.1/bin/api-ms-win-core-memory-l1-1-0.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../705/javafx-sdk-21.0.1/bin/api-ms-win-core-namedpipe-l1-1-0.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../705/javafx-sdk-21.0.1/bin/api-ms-win-core-processenvironment-l1-1-0.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../705/javafx-sdk-21.0.1/bin/api-ms-win-core-processthreads-l1-1-0.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../705/javafx-sdk-21.0.1/bin/api-ms-win-core-processthreads-l1-1-1.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../705/javafx-sdk-21.0.1/bin/api-ms-win-core-profile-l1-1-0.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../705/javafx-sdk-21.0.1/bin/api-ms-win-core-rtlsupport-l1-1-0.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../705/javafx-sdk-21.0.1/bin/api-ms-win-core-string-l1-1-0.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../705/javafx-sdk-21.0.1/bin/api-ms-win-core-synch-l1-1-0.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../705/javafx-sdk-21.0.1/bin/api-ms-win-core-synch-l1-2-0.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../705/javafx-sdk-21.0.1/bin/api-ms-win-core-sysinfo-l1-1-0.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../705/javafx-sdk-21.0.1/bin/api-ms-win-core-timezone-l1-1-0.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../705/javafx-sdk-21.0.1/bin/api-ms-win-core-util-l1-1-0.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../705/javafx-sdk-21.0.1/bin/api-ms-win-crt-conio-l1-1-0.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../705/javafx-sdk-21.0.1/bin/api-ms-win-crt-convert-l1-1-0.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../705/javafx-sdk-21.0.1/bin/api-ms-win-crt-environment-l1-1-0.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../705/javafx-sdk-21.0.1/bin/api-ms-win-crt-filesystem-l1-1-0.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../705/javafx-sdk-21.0.1/bin/api-ms-win-crt-heap-l1-1-0.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../705/javafx-sdk-21.0.1/bin/api-ms-win-crt-locale-l1-1-0.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../705/javafx-sdk-21.0.1/bin/api-ms-win-crt-math-l1-1-0.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../705/javafx-sdk-21.0.1/bin/api-ms-win-crt-multibyte-l1-1-0.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../705/javafx-sdk-21.0.1/bin/api-ms-win-crt-private-l1-1-0.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../705/javafx-sdk-21.0.1/bin/api-ms-win-crt-process-l1-1-0.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../705/javafx-sdk-21.0.1/bin/api-ms-win-crt-runtime-l1-1-0.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../705/javafx-sdk-21.0.1/bin/api-ms-win-crt-stdio-l1-1-0.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../705/javafx-sdk-21.0.1/bin/api-ms-win-crt-string-l1-1-0.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../705/javafx-sdk-21.0.1/bin/api-ms-win-crt-time-l1-1-0.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../705/javafx-sdk-21.0.1/bin/api-ms-win-crt-utility-l1-1-0.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../705/javafx-sdk-21.0.1/bin/decora_sse.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../705/javafx-sdk-21.0.1/bin/fxplugins.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../705/javafx-sdk-21.0.1/bin/glass.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../705/javafx-sdk-21.0.1/bin/glib-lite.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../705/javafx-sdk-21.0.1/bin/gstreamer-lite.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../705/javafx-sdk-21.0.1/bin/javafx_font.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../705/javafx-sdk-21.0.1/bin/javafx_iio.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../705/javafx-sdk-21.0.1/bin/jfxmedia.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../705/javafx-sdk-21.0.1/bin/jfxwebkit.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../705/javafx-sdk-21.0.1/bin/msvcp140.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../705/javafx-sdk-21.0.1/bin/msvcp140_1.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../705/javafx-sdk-21.0.1/bin/msvcp140_2.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../705/javafx-sdk-21.0.1/bin/prism_common.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../705/javafx-sdk-21.0.1/bin/prism_d3d.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../705/javafx-sdk-21.0.1/bin/prism_sw.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../705/javafx-sdk-21.0.1/bin/ucrtbase.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../705/javafx-sdk-21.0.1/bin/vcruntime140.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../705/javafx-sdk-21.0.1/bin/vcruntime140_1.dll" />
+    </root>
+  </artifact>
+</component>
