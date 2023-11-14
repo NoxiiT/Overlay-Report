@@ -49,10 +49,17 @@ public class VideoCaptureBuffer {
         recorder.setPixelFormat(avutil.AV_PIX_FMT_YUV420P); // Format de pixel standard pour H.264
         recorder.start();
 
-        while (!frameBuffer.isEmpty()) {
-            recorder.record(frameBuffer.remove());
+        // On lit une copie de frameBuffer pour éviter de modifier le buffer original
+        Queue<Frame> frameBufferCopy = new LinkedList<>(frameBuffer);
+        while (!frameBufferCopy.isEmpty()) {
+            recorder.record(frameBufferCopy.remove());
         }
 
         recorder.stop();
+        recorder.release();
+
+        System.out.println("Video saved to " + outputPath);
+
+        Overlay.isSavingFiles = false;
     }
 }
