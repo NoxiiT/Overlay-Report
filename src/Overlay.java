@@ -4,6 +4,11 @@ import javafx.scene.control.Button;
 import javafx.scene.layout.StackPane;
 import javafx.stage.*;
 import javafx.scene.paint.Color;
+import org.bytedeco.javacv.FFmpegFrameFilter;
+import org.bytedeco.javacv.FFmpegFrameGrabber;
+
+import javax.sound.sampled.AudioSystem;
+import javax.sound.sampled.Mixer;
 
 public class Overlay extends Application {
 
@@ -50,10 +55,33 @@ public class Overlay extends Application {
         primaryStage.show();
     }
 
+    public static String getMicrophoneName() {
+        String command = "ffmpeg -list_devices true -f dshow -i dummy";
+        String output = "";
+        try {
+            ProcessBuilder builder = new ProcessBuilder("cmd.exe", "/c", command);
+            builder.redirectErrorStream(true);
+            Process p = builder.start();
+            output = new String(p.getInputStream().readAllBytes());
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+
+        String[] lines = output.split("\n");
+
+        for (int i = 0; i < lines.length; i++) {
+            if (lines[i].contains("Microphone")) {
+                return lines[i].split("\"")[1];
+            }
+        }
+
+        return "";
+    }
+
     public static void main(String[] args) throws Exception {
         // On démarre le buffering
         VideoCaptureBuffer.startBuffering(10, 30);
-        AudioCaptureBuffer.startBuffering(300, 44100, "Microphone (Logitech G430 Gaming Headset)");
+        AudioCaptureBuffer.startBuffering(300, 44100, getMicrophoneName());
         System.out.println("Buffering started.");
 
         launch(args);
